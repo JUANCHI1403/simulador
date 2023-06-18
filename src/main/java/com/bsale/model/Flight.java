@@ -37,6 +37,11 @@ public class Flight {
 		this.airport = airport;
 		this.airplane_id = airplane_id;
 	}
+
+	public Flight orElseThrow(Object object) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 	
 	
